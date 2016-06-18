@@ -1,0 +1,29 @@
+body#tinymce.wp-editor {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+
+body#tinymce.wp-editor a {
+    color: #4CA6CF;
+}
+
+div#mytube1popup {
+    display: none;
+}
+
+li.product .product-img-wrapper .pt-extra-gallery-img img {
+    width: 150px !important;
+    height: 250px !important;
+}
+
+.my-owl-carousel .product-description-wrapper{
+    padding: 5px;
+}
+.my-owl-carousel .product-description-wrapper a{
+    margin-right: 5px !important;
+}
+.my-owl-carousel .product-description-wrapper a > h3{
+    font-size: 15px !important;
+}
+
+
